@@ -17,4 +17,11 @@ public class AppiumTest {
 		System.out.println("print IOS App");
 	}
 	
+	@Test
+	public void gitdemopushtest()
+	{
+		System.out.println("print GIT Demo push");
+		System.out.println("print gitdemo two push");
+	}
+	
 }
