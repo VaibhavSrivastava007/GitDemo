@@ -15,6 +15,8 @@ public class AppiumTest {
 	public void IOSApp()
 	{
 		System.out.println("print IOS App");
+		System.out.println("gitstuffx pull and push");
+		System.out.println("gitstuffx method two pull push");
 	}
 	
 	@Test
@@ -22,6 +24,7 @@ public class AppiumTest {
 	{
 		System.out.println("print GIT Demo push");
 		System.out.println("print gitdemo two push");
+		System.out.println("gitstuffx method three pull push");
 	}
 	
 }
